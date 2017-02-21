@@ -41,25 +41,12 @@ namespace ConsoleApplication18
             customers.Sort((x, y) => x.Age.CompareTo(y.Age));
         }
 
-    /*
-        public void SortAge()
-        {
-            klienci.Sort(delegate (Person x, Person y)
-            {
-                return x.Age.CompareTo(y.Age);
-            });
-        }
-
-    */
-
-
 
         public void DrukujListe()
         {
             foreach (var q in customers)
             {
                 Console.WriteLine($"{q.Id}    {q.Name}    {q.Age}    {q.AccountNumber}");
-                //Console.WriteLine("{0}  {1}   {2,2}   {3}", q.Id, q.Name, q.Age, q.AcNumber);
             }
         }
     }

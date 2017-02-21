@@ -10,17 +10,17 @@ namespace ConsoleApplication18
             jeden.GenerateListOfPerson();
             jeden.DrukujListe();
 
-            Console.WriteLine();
+            Console.WriteLine("\nSortowanie wg Name");
             
             jeden.SortName();
             jeden.DrukujListe();
 
-            Console.WriteLine();
+            Console.WriteLine("\nSortowanie wg Age");
 
             jeden.SortAge();
             jeden.DrukujListe();
 
-            Console.WriteLine();
+            Console.WriteLine("\nSortowanie wg Id");
 
             jeden.SortId();
             jeden.DrukujListe();
