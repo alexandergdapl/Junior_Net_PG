@@ -13,3 +13,6 @@ D:\c#\PG\PG-Luty-2017\ConsoleApplication18\ConsoleApplication18\obj\Debug\Consol
 D:\c#\PG\GIT\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
 D:\c#\PG\GIT\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
 D:\c#\PG\GIT\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb
+d:\c#\PG\GIT\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+d:\c#\PG\GIT\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
+d:\c#\PG\GIT\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.csprojResolveAssemblyReference.cache
